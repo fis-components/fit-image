@@ -1,0 +1,14 @@
+{
+    "name": "fit-image",
+    "description": "tb image wrapper",
+    "repos": "https://github.com/tb-component/tb-image.git",
+    "main": "lib/index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "classnames": "^2.2.3",
+        "react": "^0.14.6",
+        "react-dom": "^0.14.6"
+    },
+    "version": "1.0.2"
+}
